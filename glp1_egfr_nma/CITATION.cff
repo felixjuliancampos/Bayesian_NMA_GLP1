@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this code, please cite the review and this repository."
-title: "GLP-1 RA eGFR NMA — R analysis code"
-authors:
-  - family-names: "Campos-Garcia"
-    given-names: "Felix-Julian"
-    affiliation: "Cochrane Mexico"
-type: software
-license: MIT
